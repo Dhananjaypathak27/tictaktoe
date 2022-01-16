@@ -1,0 +1,4 @@
+#Sat Jan 15 16:12:54 IST 2022
+base.0=E\:\\android\\Flutter_LCO_projects\\tictactoe\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
